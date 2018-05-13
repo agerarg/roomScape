@@ -1,0 +1,13 @@
+*/Binaries
+
+*/Build
+
+*/DerivedDataCache
+
+*/Intermediate
+
+*/Saved
+
+gameRoom/Content/StarterContent/
+*.VC.db
+*/.vs
